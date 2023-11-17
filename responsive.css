@@ -1,0 +1,35 @@
+@media(max-width:570px){
+    .stringContainer{
+        padding-top: 20px;
+    }
+    .stringSection{
+        width: 100%;
+    }
+    .heading h2{
+        width: 100%;
+    }
+    .inputBox{
+        margin-left: 20px;
+    }
+    button{
+        margin-left: 20px;
+    }
+    .res{
+        margin-left: 20px;
+    }
+    #string{
+        width: 45%;
+        height: 35px;
+    }
+    #result{
+        width: 45%;
+        height: 35px;
+    }
+    button{
+        font-size: 17px;
+        padding: 5px;
+        border-radius: 10px;
+        background-color: rgb(69, 61, 61);
+        color: white;
+    }
+}
